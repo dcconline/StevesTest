@@ -1,2 +1,4 @@
 Here's the first line of code
 and the second.
+
+Richard tried to add some code to the master
